@@ -1,0 +1,32 @@
+.banner-image {
+  position: relative;
+  width:100%;
+}
+.banner-image::after {
+  content: '';
+  position: absolute;
+  width:100%;
+  left:0;
+  top:0;
+  width:100%;
+  background-color: red;
+  z-index: +2;
+}
+.gallery-wrap a {
+  position: relative;
+  margin-bottom: 30px;
+  display: block;
+}
+.gallery-wrap a::after {
+  content: '';
+  height: 100%;
+  background-color: transparent;
+  left:0;
+  top:0;
+  position: absolute;
+  width:100%;
+  transition: all .15s ease-in-out;
+}
+.gallery-wrap a:hover::after {
+  background-color: rgba(0, 0, 0, 0.2);
+}

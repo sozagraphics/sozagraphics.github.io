@@ -1,0 +1,25 @@
+.div-wrap {
+  position: relative;
+  width:90%;
+  left:5%;
+}
+.div-wrap .image-link {
+  margin-left: 9.6vw;
+  margin-bottom:450px;
+  margin-top: 150px;
+}
+.no-price::after {
+  display: none;
+}
+.mc-thumbs {
+  background-image: url('http://i.imgur.com/rFQIZAz.jpg');
+}
+.twod-thumbs {
+  background-image: url('http://i.imgur.com/OuD9Mvs.jpg');
+}
+.mc-walls {
+  background-image: url('http://i.imgur.com/4T0DKaA.jpg');
+}
+.regular-walls {
+  background-image: url('http://i.imgur.com/cXzzVuG.jpg');
+}

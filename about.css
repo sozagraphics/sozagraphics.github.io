@@ -1,0 +1,68 @@
+
+.about-title {
+  position: relative;
+  width:90%;
+  left:2%;
+  font-family: 'DINPro-Regular_13937';
+  text-transform: uppercase;
+  color: #67beff;
+  margin-top: 50px;
+  font-size: 34px;
+}
+.about-subtitle {
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 0;
+  width:100%;
+  text-align: center;
+  font-family: 'DINPro-Bold_13934';
+  text-transform: uppercase;
+  color:#ffffff;
+  font-size:24px;
+  line-height: 70px;
+  border-top: solid 2px #5167A9;
+  border-bottom: solid 2px #5167A9;
+}
+.about-wrap {
+  position: relative;
+  width:100%;
+  margin-top: 150px;
+}
+.about-left, .about-right {
+  display: inline-block;
+  margin-left: -4px;
+  left:4px;
+}
+.about-left {
+  width:65%;
+  position: relative;
+  text-align: center;
+}
+.soza-about {
+  position: relative;
+  font-family:'DINPro-Bold_13934';
+  font-size: 34px;
+  color:#67beff;
+  margin-bottom: -7px;
+}
+.soza-desc {
+  font-family: 'DINPro-Regular_13937';
+  text-transform: uppercase;
+  font-size: 16px;
+  color:#67beff;
+}
+.about-text {
+  font-family: 'DINPro-Regular_13937';
+  color:#ffffff;
+  font-size: 16px;
+  margin-top: 30px;
+  margin-bottom: 475px;
+}
+.about-image {
+  position: relative;
+  border-radius: 50%;
+  left:50px;
+  top: 75px;
+  width: 230px;
+  height: 230px;
+}
