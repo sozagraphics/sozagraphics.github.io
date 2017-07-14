@@ -147,6 +147,7 @@ body {
   ouline:none;
   overflow: hidden;
   background-position: center;
+    background-repeat:no-repeat;
   transition: all .25s ease-in-out;
 }
 .thumbnails-image {
