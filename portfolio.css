@@ -60,6 +60,7 @@ body {
   background-image: url('http://i.imgur.com/Zz5lwuq.jpg');
   background-size: 100%;
   width:100%;
+  outline:none;
   height: 16.96vw;
   text-align: center;
   background-position: center;
@@ -143,6 +144,7 @@ body {
   text-decoration: none;
   margin-left: 2.3vw;
   margin-bottom: 12.5vh;
+  ouline:none;
   overflow: hidden;
   background-position: center;
   transition: all .25s ease-in-out;
