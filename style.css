@@ -121,14 +121,14 @@ nav {
 }
 .banner-text {
   position: absolute;
-  width:45%;
+  width:50%;
   margin-top: 0;
   margin-bottom: 0;
   font-family: 'raavi';
   color:white;
   top:29vh;
   font-size: 22px;
-  left:55%;
+  left:50%;
   font-weight: 400;
 }
 .banner-text span {
